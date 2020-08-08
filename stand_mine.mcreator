@@ -32,12 +32,21 @@
       "compiles": true,
       "locked_code": false,
       "ids": {}
+    },
+    {
+      "name": "KarambaOre",
+      "type": "block",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "block.stand_mine.karambaore": "Karamba Ore",
       "item.stand_mine.swordkaramba": "Sword Karamba",
       "item.stand_mine.karambaaxe": "Karamba Axe",
       "biome.stand_mine.karamba": "Karamba"

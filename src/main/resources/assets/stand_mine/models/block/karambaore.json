@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stand_mine:blocks/karambaore",
+    "up": "stand_mine:blocks/karambaore",
+    "north": "stand_mine:blocks/karambaore",
+    "east": "stand_mine:blocks/karambaore",
+    "south": "stand_mine:blocks/karambaore",
+    "west": "stand_mine:blocks/karambaore",
+    "particle": "stand_mine:blocks/karambaore"
+  }
+}
