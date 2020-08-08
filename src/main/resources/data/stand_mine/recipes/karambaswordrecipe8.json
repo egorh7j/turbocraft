@@ -1,0 +1,24 @@
+{
+  "group": "stand_mine",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1",
+    "2"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:mycelium"
+    },
+    "1": {
+      "item": "minecraft:mycelium"
+    },
+    "2": {
+      "item": "minecraft:debug_stick"
+    }
+  },
+  "result": {
+    "item": "stand_mine:swordkaramba",
+    "count": 1
+  }
+}

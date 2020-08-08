@@ -1,0 +1,23 @@
+{
+  "_fv": 5,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "karambaswordtexture",
+    "customModelName": "Normal",
+    "name": "Sword Karamba",
+    "creativeTab": {
+      "value": "COMBAT"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 1,
+    "efficiency": 4.0,
+    "attackSpeed": 8.0,
+    "enchantability": 2,
+    "damageVsEntity": 6.0,
+    "usageCount": 100,
+    "blocksAffected": [],
+    "hasGlow": true,
+    "repairItems": []
+  }
+}

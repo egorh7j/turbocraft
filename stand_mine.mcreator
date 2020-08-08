@@ -2,9 +2,33 @@
   "id_map": {},
   "mod_elements": [
     {
-      "name": "Tjdtjgtr7j",
-      "type": "block",
+      "name": "SwordKaramba",
+      "type": "tool",
       "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "KarambaAxe",
+      "type": "tool",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "Karamba",
+      "type": "biome",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "ids": {}
+    },
+    {
+      "name": "KarambaSwordRecipe8",
+      "type": "recipe",
+      "sortid": 4,
       "compiles": true,
       "locked_code": false,
       "ids": {}
@@ -14,7 +38,9 @@
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "block.stand_mine.tjdtjgtr7j": "Tjdtjgtr7j"
+      "item.stand_mine.swordkaramba": "Sword Karamba",
+      "item.stand_mine.karambaaxe": "Karamba Axe",
+      "biome.stand_mine.karamba": "Karamba"
     }
   },
   "workspaceSettings": {

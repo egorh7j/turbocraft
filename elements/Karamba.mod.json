@@ -1,0 +1,66 @@
+{
+  "_fv": 5,
+  "_type": "biome",
+  "definition": {
+    "name": "Karamba",
+    "groundBlock": {
+      "value": "Blocks.SLIME_BLOCK"
+    },
+    "undergroundBlock": {
+      "value": "Blocks.TNT"
+    },
+    "generateLakes": false,
+    "treeType": 0,
+    "vanillaTreeType": "Big trees",
+    "minHeight": 7,
+    "spawnVines": false,
+    "treeVines": {
+      "value": ""
+    },
+    "treeStem": {
+      "value": ""
+    },
+    "treeBranch": {
+      "value": ""
+    },
+    "treeFruits": {
+      "value": ""
+    },
+    "customColors": false,
+    "airColor": {
+      "value": -5916161,
+      "falpha": 0.0
+    },
+    "grassColor": {
+      "value": -14101437,
+      "falpha": 0.0
+    },
+    "waterColor": {
+      "value": -65519,
+      "falpha": 0.0
+    },
+    "treesPerChunk": 3,
+    "grassPerChunk": 4,
+    "flowersPerChunk": 4,
+    "mushroomsPerChunk": 0,
+    "bigMushroomsChunk": 0,
+    "sandPathcesPerChunk": 0,
+    "gravelPatchesPerChunk": 0,
+    "reedsPerChunk": 0,
+    "cactiPerChunk": 0,
+    "deadBushesPerChunk": 0,
+    "rainingPossibility": 0.5,
+    "temperature": 0.5,
+    "baseHeight": 0.1,
+    "heightVariation": 0.2,
+    "spawnBiome": true,
+    "biomeWeight": 10,
+    "biomeType": "WARM",
+    "biomeCategory": "EXTREME_HILLS",
+    "parent": {
+      "value": "taiga"
+    },
+    "biomeDictionaryTypes": [],
+    "spawnList": []
+  }
+}
