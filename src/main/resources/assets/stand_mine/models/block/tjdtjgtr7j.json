@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "stand_mine:blocks/fg",
+    "up": "stand_mine:blocks/fg",
+    "north": "stand_mine:blocks/fg",
+    "east": "stand_mine:blocks/fg",
+    "south": "stand_mine:blocks/fg",
+    "west": "stand_mine:blocks/fg",
+    "particle": "stand_mine:blocks/fg"
+  }
+}
