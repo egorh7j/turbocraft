@@ -1,0 +1,30 @@
+{
+  "group": "stand_mine",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "stand_mine:karambaore"
+    },
+    "1": {
+      "item": "stand_mine:karambaore"
+    },
+    "2": {
+      "item": "stand_mine:karambaore"
+    },
+    "4": {
+      "item": "minecraft:debug_stick"
+    },
+    "7": {
+      "item": "minecraft:debug_stick"
+    }
+  },
+  "result": {
+    "item": "stand_mine:karambaaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "group": "stand_mine",
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "stand_mine:karambaaxe"
+    },
+    "1": {
+      "item": "stand_mine:swordkaramba"
+    },
+    "2": {
+      "item": "stand_mine:karambaaxe"
+    },
+    "4": {
+      "item": "minecraft:lapis_block"
+    },
+    "7": {
+      "item": "minecraft:white_bed"
+    }
+  },
+  "result": {
+    "item": "stand_mine:karambaore",
+    "count": 1
+  }
+}

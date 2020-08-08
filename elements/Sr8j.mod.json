@@ -1,0 +1,45 @@
+{
+  "_fv": 5,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "recipeRetstackSize": 1,
+    "recipeShapeless": false,
+    "recipeReturnStack": {
+      "value": "CUSTOM:KarambaOre"
+    },
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:KarambaAxe"
+      },
+      {
+        "value": "CUSTOM:SwordKaramba"
+      },
+      {
+        "value": "CUSTOM:KarambaAxe"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.LAPIS_BLOCK"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "Blocks.BED"
+      },
+      {
+        "value": ""
+      }
+    ],
+    "smeltingXPReward": 0.0,
+    "smeltingRetstackSize": 1,
+    "name": "sr8j",
+    "namespace": "mod"
+  }
+}
